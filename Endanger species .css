@@ -1,0 +1,78 @@
+/*
+* Katie Ballinger
+* 12/11/17
+* Information about the Bornean Bay Cat.
+*/
+
+
+/* The universal selector */
+*{margin: 0;
+  padding: 0;
+  }
+
+
+.topimg {float: left;
+	  width: 170px;
+	  height: 150px;
+	  margin: .5px;              
+	  padding: 20px;
+		 				
+		}
+.secimg {width:150px;
+		height: 150px;
+		margin: .5px;
+ 		padding: 3px;
+ 		}
+ 
+ .thirdimg{ width: 150px;
+ 			height: 150px;
+ 			margin: .5px;
+ 			padding: 3px;
+ 			}
+ 			
+ .fourimg{ width: 150px;
+ 			height: 150px;
+ 			margin: .5px;
+ 			padding: 3px;
+ 			}
+ 			
+ .fiveimg{ width: 150px;
+ 			height: 150px;
+ 			margin: .5px;
+ 			padding: 3px;
+ 			}		
+ 		
+ .siximg { width: 150px;
+ 			height: 150px;
+ 			margin: .5px;
+ 			padding: 3px;
+ 			}		
+ 			
+	p{
+		margin: 1px;					/* all four sides */
+		padding-left: 3px;
+	}
+	
+h1{     
+	   text-align: center;
+	    margin: .5em 0 .25em;		/* .5em top, 0 right and left,
+	    								.25em bottom */
+	    padding-left: 2px;
+	 }
+	
+ul{ margin-left: 20px;}
+
+ol{ margin-left: 20px;}
+
+
+/* Put body attributes here */
+
+body {background-color: aliceblue;
+       margin: auto;
+       width: 900px;
+        }
+ 
+ 
+
+
+	
